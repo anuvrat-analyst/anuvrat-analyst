@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Anuvrat 👋
+A B.Tech (CSE – Data Analytics) graduate passionate about SQL, Python, Power BI, and transforming data into actionable insights. 👋
 
 <!--
 **anuvrat-analyst/anuvrat-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
